@@ -1,0 +1,95 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+
+
+
+/* main styles */
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.content{ 
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.200);
+    padding: 50px 90px;
+}
+
+.about-me{
+    margin-top: 70px;
+}
+
+.Education{
+    margin-top: 70px;
+}
+
+.Languages{
+    margin-top: 70px;
+}
+
+.non .percent{
+    height: 10px;
+    background: #f0f0f0;
+}
+
+.non .percent div {
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: #50adff;
+}
+
+.box{
+    margin-bottom: 7px;
+}
+
+.skills{
+    margin-top: 70px;
+}
+
+.skills-type{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+
+
+/* sidebar styles */
+.sidebar{ 
+    background-color: #12141c;
+    padding-top: 50px;
+    width: 370px;
+}
+
+.photo{
+    width: 300px;
+    margin-bottom: 40px;
+}
+
+.Information{
+    color: #FFFFFF;
+}
+
+.contacts{ 
+    margin-left: 40px;
+}
+
+.Contact-type{
+    color: #FFFFFF;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.Contact-link{
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+/*so I will be happy to cooperate and conscientiously study with specialists in my field.
